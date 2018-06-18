@@ -1,7 +1,7 @@
 # Site settings
 title: Student Portfolio
 description: A short portfolio for Timothy
-baseurl: "/particle" # the subpath of your site, e.g. /blog
+#baseurl: "/particle" # the subpath of your site, e.g. /blog
 url: "https://timrob0.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
