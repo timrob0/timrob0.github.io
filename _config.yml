@@ -2,7 +2,7 @@
 title: Student Portfolio
 description: A short portfolio for Timothy
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "timrob0.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Timothy Robinson
